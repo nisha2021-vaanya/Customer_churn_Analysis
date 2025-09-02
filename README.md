@@ -38,7 +38,7 @@ pip install pandas matplotlib seaborn numpy
 Usage
 Clone the repository:
 ## text
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/nisha2021-vaanya/customer-churn-analysis.git
 Place the Customer Churn.csv dataset in the root directory.
 Run the Jupyter notebook or scripts to reproduce the analysis and plots.
 ## Key Insights
