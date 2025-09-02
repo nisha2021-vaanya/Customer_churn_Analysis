@@ -45,4 +45,4 @@ Run the Jupyter notebook or scripts to reproduce the analysis and plots.
 Customers with short tenures, month-to-month contracts, or electronic check payments are at highest churn risk.
 Providing more secure, bundled, or long-term service options may reduce churn rates.
 ## Project link 
-
+https://github.com/nisha2021-vaanya/Customer_churn_Analysis/tree/main
